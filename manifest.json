@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Password Generator Extension",
+  "description": "An Extension for Generating random passwords on the fly",
+  "version": "1.0",
+  "action": {
+    "default_popup": "src/main.html",
+    "default_icon": "img/icon.png"
+  }
+}
